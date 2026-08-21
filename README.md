@@ -1,2 +1,26 @@
+<img width="220" height="391" alt="pizza-case-preview" src="https://github.com/user-attachments/assets/b4e930c4-e85d-425e-a1fa-e7985c780912" />
+
 # video-editor-portfolio.
-Video Editor &amp; Graphic Designer Portfolio — Video Editing, Motion Design, Graphic Design and AI
+Video Editor & Graphic Designer Portfolio — Video Editing, Motion Design, Graphic Design and AI
+
+## Кейс: рекламный ролик для пиццерии "Марио"
+
+**Роль:** видеомонтажёр / motion-дизайнер
+**Клиент:** пиццерия "Марио", Благовещенск
+**Инструменты:** AI-генерация, Adobe After Effects, Adobe Premiere Pro
+
+### Проблема
+Клиенту нужен был рекламный ролик для соцсетей, который выделяется на фоне типичных фото еды.
+
+### Решение
+Динамичный "food commercial": ингредиенты эффектно влетают в кадр со взрывами и брызгами, затем собираются в готовую пиццу, в финале — крупный план с тянущимся сыром.
+
+### Процесс
+1. AI-генерация hero-элементов (взрыв томата, летящий сыр, креветка)
+2. Компоузинг в After Effects — слои, частицы, синхронизация под музыку
+3. Transition-переход, собирающий ингредиенты в готовую пиццу
+4. Цветокоррекция — единый тёплый тон
+5. Финальная сборка и экспорт в Premiere Pro
+
+### Результат
+Готовый вертикальный ролик под Reels/Shorts, 8 секунд.
