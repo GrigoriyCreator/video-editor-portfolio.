@@ -17,11 +17,6 @@
 
 ## Примеры работ
 
-
-**Выпуск 1**
-
-![chek channel 1](./examples/chek-channel-1.gif)
-
-**Выпуск 2**
+**Пример**
 
 ![chek channel 2](./examples/chek-channel-2.gif)
