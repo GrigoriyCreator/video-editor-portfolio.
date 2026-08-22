@@ -17,6 +17,6 @@
 
 ## Примеры работ
 
-**Пример**
+
 
 ![chek channel 2](./examples/chek-channel-2.gif)
