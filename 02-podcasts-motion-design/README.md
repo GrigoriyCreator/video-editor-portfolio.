@@ -33,7 +33,3 @@
 **Подкаст (мультикам-монтаж)**
 
 ![podcast purple hood](./examples/podcast-purplehood.gif)
-
-**Муд-нарезка**
-
-![mood cut purple hood](./examples/mood-cut-purplehood.gif)
